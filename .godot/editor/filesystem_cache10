@@ -1,7 +1,7 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1769812305
+::res://::1769816250
 icon.svg::CompressedTexture2D::926050354086110961::1769732492::1769732500::1::::<><><>0<>0<>4f948fb56fc912e2a8a636779c792a2b<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-world.tscn::PackedScene::4500074061351871614::1769812301::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1769815351::0::1::::<><><>0<>0<><>::
 ::res://art/::1769812149
 ::res://art/fx/::1769812149
 ::res://art/sprites/::1769812149
@@ -27,7 +27,8 @@ TilesetCreator.gd::GDScript::3437825151199965339::1769735317::0::1::::<>RefCount
 XmlParserCtrl.gd::GDScript::9101325275029540158::1769735317::0::1::::<>RefCounted<><>0<>1<><>::
 ::res://scenes/::1769812149
 ::res://scenes/enemies/::1769812149
-::res://scenes/levels/::1769812149
+::res://scenes/levels/::1769814873
+lvl_1.tscn::PackedScene::4864871424514500296::1769814873::0::1::::<><><>0<>0<><>::
 ::res://scenes/player/::1769812149
 ::res://scenes/props/::1769812149
 ::res://scripts/::1769812149
